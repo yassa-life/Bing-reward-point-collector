@@ -1,0 +1,1 @@
+# Bing-reward-point-collector
