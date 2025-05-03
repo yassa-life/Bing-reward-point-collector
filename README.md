@@ -23,7 +23,6 @@ A Python script that automates Bing searches to help earn Microsoft Rewards poin
 
 1. Clone the repository:
 
-   ```bash
    git clone https://github.com/yassa-life/Bing-reward-point-collector.git
    cd Bing-reward-point-collector
 ````
