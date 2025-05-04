@@ -23,7 +23,6 @@ A Python script that automates Bing searches to help earn Microsoft Rewards poin
 
    git clone https://github.com/yassa-life/Bing-reward-point-collector.git
    cd Bing-reward-point-collector
-````
 
 2. Verify Firefox is installed at the default location or edit the path in the script:
 
