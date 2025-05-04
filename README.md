@@ -1,6 +1,4 @@
-Sure! Here's the `README.md` file content using the data you provided:
 
-````markdown
 # Bing Rewards Automation Script
 
 A Python script that automates Bing searches to help earn Microsoft Rewards points.
