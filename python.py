@@ -17,10 +17,8 @@ SEARCH_QUERIES = [
     'bing points conversion rate',
     'bing rewards levels',
     'max bing points per day',
-    'bing shopping rewards',
     'bing mobile search points',
     
-    # General search terms
     'weather today',
     'latest tech news',
     'best restaurants near me',
