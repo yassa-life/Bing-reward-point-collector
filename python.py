@@ -29,7 +29,7 @@ SEARCH_QUERIES = [
     'upcoming movie releases',
     
     # Microsoft related
-    'microsoft surface deals',
+    'microsoft surface deal',
     'xbox game pass ultimate',
     'windows 11 features',
     'office 365 tips',
