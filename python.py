@@ -12,7 +12,7 @@ SEARCH_QUERIES = [
     # Bing rewards related
     'bing rewards program',
     'how to earn bing points',
-    'bing rewards redeem options',
+    'bing rewards redeem option',
     'microsoft rewards dashboard',
     'bing points conversion rate',
     'bing rewards levels',
