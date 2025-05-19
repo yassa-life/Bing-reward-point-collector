@@ -79,8 +79,3 @@ if random.random() < 0.1:
 ## Disclaimer
 
 ⚠️ This script is for educational purposes only. Microsoft's terms of service may prohibit automated searches. Use at your own discretion.
-
-## License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
